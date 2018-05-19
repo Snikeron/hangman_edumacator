@@ -83,4 +83,4 @@ I also learnt a lot about self-referencing methods and techniques in Ruby that I
 ## Authors
 Maurice Yong && Erin Belot
 ## Contributors
-Matt, Gretch, and Reugan -  A big thank you for the general bug fixing, guidance, and moral support.
+Matt, Gretch, and Reugan -  A big thank you for your debugging advice, guidance, and moral support.
