@@ -7,9 +7,11 @@ Teachers can create or add new word lists to the game and monitor the progress o
 
 
 ## Getting Started
-1. Unzip "Hangman.zip" to your Desktop folder
-2. Open Terminal
-3. Enter "cd Desktop/Hangman" into Terminal
+1. Download and unzip folder to your Desktop
+2. Open Terminal and input:
+```sh
+cd Desktop/hangman_edumacator-master.zip
+```
 4. Install bundler
     * For MAC: Enter "gem install bundler" into Terminal
     * For WINDOWS: Enter "sudo apt install ruby-bundler" into Terminal
