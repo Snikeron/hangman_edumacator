@@ -1,4 +1,5 @@
  # Educational Hangman
+ ![Hangman App](docs/terminal_app.png)
 Educational Hangman is a great tool/game for teachers and primary-aged students to get comfortable with a terminal while learning and practicing new words they learn using the classical Hangman game.
 
 Students can track their progress and compete against one another with a scoreboard that tracks and saves their scores.
